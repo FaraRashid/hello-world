@@ -1,5 +1,5 @@
 # hello-world
 
-Hi Alls!
+Hi alls!
 
 I'm Fara, 22 years old. 
